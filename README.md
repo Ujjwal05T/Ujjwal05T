@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Ujjwal 👋
 
-<!--
-**Ujjwal05T/Ujjwal05T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a passionate developer with experience in Javascript, Reactjs, Java, Spring Boot, and TailwindCSS. I enjoy working on projects and deploying applications.
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: Java, Javascript, Typescript, Python 
+- **Frameworks**: Spring Boot, Reactjs
+- **Database**: PostgreSQL, MySQL
+- **Tools**: Git, Github, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- **GitHub**: [Ujjwal05T](https://github.com/Ujjwal05T)
+- **Email**: [utamrakar3@gmail.com](mailto:utamrakar3@gmail.com)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal05T&layout=compact&theme=radical)
