@@ -1,46 +1,83 @@
-# Hi there, I'm Ujjwal 👋
+
+<h1 align="center">Hi there, I'm Ujjwal 👋</h1>
+
+<p align="center">
+  <em> Full-Stack Developer | Web3 Enthusiast | Cloud Explorer </em>
+</p>
+
+---
 
 ## 🚀 About Me  
-I'm a passionate full-stack developer who enjoys building and deploying impactful web applications. I have experience working with modern frontend and backend technologies like **React**, **Next.js**, **Spring Boot**, **MongoDB**, and **TailwindCSS**, and I love exploring cloud computing, Web3, and AI-integrated apps.
+I'm a passionate **full-stack developer** who enjoys building and deploying impactful web applications. I have experience working with modern technologies like **React**, **Next.js**, **Spring Boot**, **MongoDB**, and **TailwindCSS**.  
+I love exploring **cloud computing**, **Web3**, and building **AI-integrated apps**.  
+
+---
 
 ## 🛠️ Tech Stack
 
-**Languages**:  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![Visual Basic](https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat&logo=dotnet&logoColor=white)
+### 💻 Languages  
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Basic-512BD4?style=flat&logo=dotnet&logoColor=white"/>
+</p>
 
-**Frontend**:  
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+### 🎨 Frontend  
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
+</p>
 
-**Backend**:  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
+### 🧠 Backend  
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white"/>
+</p>
 
-**Database**:  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+### 🗃️ Database  
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
-**Dev Tools & Cloud**:  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
+### ⚙️ Dev Tools & Cloud  
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white"/>
+</p>
 
-## 📫 Contact  
-- **GitHub**: [Ujjwal05T](https://github.com/Ujjwal05T)  
-- **Email**: [utamrakar3@gmail.com](mailto:utamrakar3@gmail.com)
+---
 
-## 📈 Top Languages  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal05T&layout=compact&theme=radical)
+## 📫 Contact Me  
+- 📧 **Email**: [utamrakar3@gmail.com](mailto:utamrakar3@gmail.com)  
+- 💼 **GitHub**: [Ujjwal05T](https://github.com/Ujjwal05T)  
+- 🌐 **Portfolio**: Coming Soon...  
 
-## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/ujjwal-tamrakar)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue)](https://x.com/TamrkarUjjwal)
+## 🌐 Connect With Me  
+<p>
+  <a href="https://www.linkedin.com/in/ujjwal-tamrakar">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
+  </a>
+  <a href="https://x.com/TamrkarUjjwal">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter&labelColor=blue" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ujjwal05T&layout=compact&theme=radical" />
+</p>
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.” – *Cory House*
