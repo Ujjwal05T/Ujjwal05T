@@ -59,7 +59,7 @@ I love exploring **cloud computing**, **Web3**, and building **AI-integrated app
 ## 📫 Contact Me  
 - 📧 **Email**: [utamrakar3@gmail.com](mailto:utamrakar3@gmail.com)  
 - 💼 **GitHub**: [Ujjwal05T](https://github.com/Ujjwal05T)  
-- 🌐 **Portfolio**: Coming Soon...  
+- 🌐 **Portfolio**: [Portfolio](https://www.devujjwal.tech) 
 
 ## 🌐 Connect With Me  
 <p>
